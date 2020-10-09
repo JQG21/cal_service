@@ -2,10 +2,8 @@
     <string name="app_name">cal_service</string>
     <string name="start">start</string>
     <string name="stop">stop</string>
-    <string name="_0">0</string>
-    <string name="sign">+</string>
-    <string name="add">+</string>
-    <string name="sub">-</string>
-    <string name="mul">*</string>
-    <string name="div">/</string>
+    <string name="use_add">use_add()</string>
+    <string name="use_sub">use_sub()</string>
+    <string name="use_mul">use_mul()</string>
+    <string name="use_div">use_div()</string>
 </resources>
