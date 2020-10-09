@@ -13,7 +13,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = "MyServiceTag";
+    private static final String TAG = "MyServiceTag";  //
 
     Service_cal service_cal = null;
     Button start,stop,add,sub,mul,div;
